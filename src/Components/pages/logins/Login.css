@@ -1,0 +1,199 @@
+/* body{
+   
+    margin: auto;
+    display: flex;
+    justify-content: center
+  } 
+   */
+  .tab{
+    margin-top: 41px;
+    font-size: 20px;
+  }
+  
+  
+  #btn{
+  height: 30px;
+  background: green;
+  color: white;
+  }
+  .head2,form div{
+    text-align: center;
+  }
+  .inp{
+    width: 40%;
+    background-color: bisque;
+    margin: 15px 0px;
+    outline-color: #043c56;
+  
+  }
+  .main1 label{
+  font-size: 20px;
+  }
+  
+  /* .rsign1:hover{
+    background: rgb(231, 227, 223);
+    color: black;
+  } */
+  .rsign{
+    margin: 5px 0px;
+    text-align: center;
+  
+  }
+  #root{
+    width: 100%;
+
+    
+
+  }
+  .home{
+    background: linear-gradient(to left,#000000e8,#f5f5f5);
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 30px 0px;
+
+  }
+  .main1{
+   
+    width: 40%;
+    height: 550px;
+    background-color: #919191;
+
+  
+  }
+  .link{
+    font-size: 20px;
+    border: 1px solid;
+    padding: 6px;
+    text-decoration: none;
+    border-radius: 10px;
+    background: rgb(231, 227, 223);
+    color: black;
+      
+  }
+  .link,#link1:hover{
+    color: white;
+    background: black;
+  }
+  .inp:focus{
+  
+    background-color: rgb(247, 250, 253);
+  }
+  /* .rsign1{
+    padding: 11px;
+    border-radius: 10px;
+    color: white;
+    background: black;
+    margin: 5px 0px 0px 30px;
+    text-align: center;
+    text-decoration: none;
+  } */
+  .btn{
+    border-radius: 12px;
+    padding: 12px 80px;
+    color: white;
+    background: black;
+    border: none;
+  }
+  .btn:hover{
+    background-color: aliceblue;
+    color: black;
+  }
+  .rsign a{
+  
+    padding: 5px 80px;
+  
+  }
+  #link1{
+    font-size: 20px;
+    border: 1px solid;
+    
+    text-decoration: none;
+    border-radius: 10px;
+    background: rgb(231, 227, 223);
+    color: black;
+    padding: 5px 50px;
+  }
+  
+
+  .sbtn{
+    border: 1px solid;
+    color: rgb(255, 255, 255);
+    background: #1ada5a;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .sbtn1{
+    border: 1px solid;
+    color: aliceblue;
+    background: red;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .sbtn :hover{
+    background: red;
+  }
+  .sbtn1 :hover{
+    background: #1ada5a;
+  }
+  @media (max-width:376px){
+  .main1{
+width: 100%;
+background-color: transparent;
+height: 500px;
+    }
+    .inp{
+      width: 70%;
+      background-color: #e1dbd3;
+      margin: 15px 0px;
+      outline-color: #043c56;
+    }
+    body input{
+border: 1px solid ;
+    }
+    .home{
+      background: linear-gradient(to left,#9b8787e8,#f5f5f5);
+    }
+    .rsign1{
+      padding-top: 10px;
+    }
+    #link1{
+      font-size: 20px;
+      border: 1px solid;
+      text-decoration: none;
+      background: transparent;
+      border-radius: 0px;
+   
+      color: black;
+      padding: 5px 33px;
+  }
+  .btn{
+    font-size: 20px;
+      border: 1px solid;
+      text-decoration: none;
+      background: transparent;
+      border-radius: 0px;
+   
+      color: black;
+      padding: 5px 40px;
+    }.link{
+      font-size: 20px;
+      border: 1px solid;
+      padding: 6px;
+      text-decoration: none;
+      border-radius: 0px;
+      background: rgb(0, 0, 0);
+      color: rgb(255, 245, 245);
+    }.member{
+      font-size: 23px;
+    margin: 25px;
+    }
+    .rsign a{
+      border: 2px solid #6b6363;
+    }
+
+      
+  }
+  .btn :hover{
+    background-color: black;
+  }

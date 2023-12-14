@@ -1,0 +1,39 @@
+.main2{
+    background-color: #bceaff;
+      padding: 0px 198px;
+  
+    }
+  
+    #td th{
+  
+      border-bottom: 1px solid black;
+      border-top: 1px solid rgb(220, 211, 211);
+      border-bottom: 1px solid rgb(220, 211, 211)   ;
+      border-collapse: collapse;
+    }
+    body input{
+      border-bottom: 1px solid greenyellow;
+      border-right: 1px solid greenyellow;
+      border-left: 1px solid greenyellow;
+      border-radius: 10px;
+      padding: 13px;
+    
+    }
+    .sec-2,.uc{
+      display: flex;
+    }
+    
+  table th,tr{
+  
+    padding: 30px;
+  
+  }
+  .sec-1 div{
+    padding: 6px
+  }
+  #btn{
+    height: 30px;
+    background: green;
+    color: white;
+    border-radius: 10px;
+    }

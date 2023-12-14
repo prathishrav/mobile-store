@@ -1,0 +1,176 @@
+@media (max-width:376px) {
+  .header {
+      width: 100%;
+  }
+
+  #inp {
+      display: none;
+  }
+
+ .bnds{
+    width: 100%;
+    position: relative;
+    right: 246px;
+}
+
+  .brand {
+      width: 85px;
+      height: 90px;
+  }
+
+
+  input {
+      width: 30px;
+  }
+
+  .lle {
+      display: flex;
+  }
+
+  .mobilebrand,
+  .speci {
+      height: 200px;
+      width: 200px;
+  }
+
+  .let {
+      padding: auto;
+  }
+
+  
+
+  .sec-4 {
+      display: flex;
+      padding: 0px 100px;
+  }
+
+  .sec-4 span {
+      padding: 0;
+  }
+
+  .search {
+      width: 300px;
+  }
+
+  #inp {
+      padding: auto;
+  }
+
+  .mobilebrand {
+      width: 390px;
+      height: 400px;
+  }
+
+  .slick-prev {
+      left: -170px;
+  }
+
+  .slick-next:before {
+      content: '→';
+  }
+  
+  .cen,.lle{
+    left: 5px;
+    position: relative;
+    
+  }
+
+  .slick-prev:before,
+  .slick-next:before {
+      font-family: 'slick';
+      font-size: 45px;
+      line-height: 1;
+      opacity: .75;
+      color: white;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+  }
+
+  .slick-slider {
+      right: -250px;
+  }
+
+  .slick-next {
+      right: 75px;
+  }
+
+  .slick-dots li button:before {
+      font-size: 0px;
+  }
+
+
+  .mobilebrand{
+    width: 250px;
+    height: 2500px;
+
+  }
+ 
+
+  .speci {
+      width: 350px;
+      height: 350px;
+  }
+
+ 
+
+
+
+  .slick-arrow .slick-next {
+      right: -175px;
+      display: block;
+  }
+
+  .slick-slide slick-clone {
+      width: 480px;
+  }
+
+  
+
+  
+
+  .n22 {
+      width: 60%;
+  }
+
+  #ic {
+      text-align: none;
+  }
+
+
+ 
+
+  .search {
+      display: none;
+      align-items: center;
+      background: black;
+      color: aliceblue;
+      height: 100px;
+  }
+
+  .sp{
+    display: none;
+  }
+  .pp,
+  .mobile-icon {
+      display: block;
+  }
+
+
+  .rec {
+      display: flex;
+      width: 60%;
+  }.pre{
+    position: relative;
+    right: 238px;
+  }
+  /* .slick-prev:before{
+    visibility:hidden;
+  } */
+  .slick-arrow{
+    display: none !important;
+    }
+}
+
+.mobile-icon {
+  display: none;
+}
